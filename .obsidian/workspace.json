@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b2fe97a7d2874be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "237465be657fd99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0089e90d2f0ee62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c040b17c891efb8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea0cd34587f45439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a473edaca747d8eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89060ce341f436e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ee9a3e29ed8ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3764d1f305e06284",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "c2449bad5b8974ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa02ecedfd0bef49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d033058cab109f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7b0991f916aecb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a64a18724e2adca3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51d102e1a5afe05a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md"
+              }
+            }
+          },
+          {
+            "id": "7cb3c556078404c9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "0089e90d2f0ee62a",
+  "lastOpenFiles": [
+    "pemograman web/HTML/pertemuan 3/perkenalan html.md",
+    "CSS/Pengenalan CSS.md",
+    "CSS/aset/ss4.png",
+    "CSS/aset/ss2.png",
+    "CSS/aset/ss2 (2).png",
+    "CSS/aset/Screenshot 2024-02-19 120139.png",
+    "CSS/aset/Screenshot 2024-02-19 120113.png",
+    "CSS/aset/ss3.png",
+    "CSS/aset/ss1.png",
+    "CSS/aset/Screenshot 2024-02-19 114533.png",
+    "CSS/aset/Screenshot 2024-02-19 114255.png",
+    "CSS/aset/Screenshot 2024-02-19 114714.png",
+    "CSS/aset",
+    "CSS/New folder",
+    "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+    "CSS",
+    "Basis Data/Instalasi & Query Awal Databases.md",
+    "Basis Data/Hirarki .md",
+    "pemograman web/HTML/pertemuan 1/Pertemuan 1.md",
+    "Untitled 1.loom",
+    "pemograman web/basis data/tabel",
+    "pemograman web/basis data",
+    "pemograman web/New folder",
+    "Untitled.loom",
+    "pemograman web/HTML/pertemuan 3/deskripsi.md",
+    "pemograman web/HTML/Pertemuan 2/pengenalan web.md",
+    "pemograman web/HTML/pertemuan 3/pertemuan 3.md",
+    "pemograman web/HTML/Belajar HTML.md",
+    "pemograman web/HTML/aset/.md",
+    "pemograman web/HTML/perkenalan html",
+    "pemograman web/HTML/aset",
+    "pemograman web/HTML/HTML.md",
+    "pemograman web/HTML/pertemuan 1/pertemuan 1.md",
+    "Vault.md",
+    "Basis Data/.md",
+    "Pertemuan 1.md"
+  ]
+}
