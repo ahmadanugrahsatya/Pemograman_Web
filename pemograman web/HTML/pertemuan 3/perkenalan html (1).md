@@ -21,7 +21,7 @@ Penjelasan:
 - Apapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di web browser.
 
 Hasil:
-![](aset/ss3.png)
+![](../aset/ss3.png)
 # Anatomi Elemen HTML
 
 ## Tag Pembuka dan Tag Penutup
@@ -47,7 +47,7 @@ Penjelasan:
 - "pergi kehalaman selanjutnya"merupakan isi konten yang berarti "pergi ke halaman selanjutnya"akan muncul sebagai link yang telah saya tentukan
 
 Contoh:
-![ssan 4](aset/ss4.png)
+![ssan 4](../aset/ss4.pngaset/)
 
 # Tag Dasar
 
