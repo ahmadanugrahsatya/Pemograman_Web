@@ -12,10 +12,10 @@ button{
 
 ## Color
 ### Before
-![](ss1.png)
+![](aset/cssss1.png)
 
 ### After
-![](ss3.png)
+![](aset/cssss3.png)
 
 > [!Penjelasan]
 
@@ -25,17 +25,17 @@ button{
 ## Font-size
 
 ### Before
-![](ss1.png)
+![](aset/cssss1.png)
 
 
 ### After
-![](ss2.png)
+![](aset/cssss2.png)
 
 
 ## Text-align
 
 ### Before
-![](ss1.png)
+![](aset/cssss1.png)
 
 ### After
-![](ss4.png)
+![](aset/cssss2.png)

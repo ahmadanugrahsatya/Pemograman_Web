@@ -21,7 +21,7 @@ Penjelasan:
 - Apapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di web browser.
 
 Hasil:
-![ssan3](aset/ss3.png)
+![](aset/ss3.png)
 # Anatomi Elemen HTML
 
 ## Tag Pembuka dan Tag Penutup

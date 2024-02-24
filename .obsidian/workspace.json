@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Basis Data/Select Lanjutan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a39c16f80180df7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,39 +182,42 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0089e90d2f0ee62a",
+  "active": "a39c16f80180df7a",
   "lastOpenFiles": [
+    "pemograman web/HTML/Pertemuan 2/pengenalan web.md",
+    "Basis Data/Select Lanjutan.md",
+    "pemograman web/HTML/pertemuan 1/Pertemuan 1.md",
+    "pemograman web/HTML/pertemuan 3/deskripsi.md",
     "pemograman web/HTML/pertemuan 3/perkenalan html.md",
+    "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+    "pemograman web/HTML/Belajar HTML.md",
+    "Basis Data/Hirarki .md",
+    "Basis Data/Instalasi & Query Awal Databases.md",
+    "pemograman web/HTML/aset/ss55.png",
+    "pemograman web/HTML/aset/Screenshot 2024-02-20 153416.png",
+    "pemograman web/HTML/aset/ss54.png",
+    "pemograman web/HTML/aset/ss53.png",
+    "pemograman web/HTML/aset/ss52.png",
+    "pemograman web/HTML/aset/ss51.png",
+    "pemograman web/HTML/aset/ss50.png",
+    "pemograman web/HTML/aset/ss49.png",
+    "pemograman web/HTML/aset/ss48.png",
+    "pemograman web/HTML/aset/Screenshot 2024-02-20 141543.png",
+    "pemograman web/basis data/basis data.md",
+    "pemograman web/HTML/aset",
+    "aset.md",
+    "pemograman web/HTML/aset pemograman",
     "CSS/Pengenalan CSS.md",
-    "CSS/aset/ss4.png",
-    "CSS/aset/ss2.png",
-    "CSS/aset/ss2 (2).png",
-    "CSS/aset/Screenshot 2024-02-19 120139.png",
-    "CSS/aset/Screenshot 2024-02-19 120113.png",
-    "CSS/aset/ss3.png",
-    "CSS/aset/ss1.png",
-    "CSS/aset/Screenshot 2024-02-19 114533.png",
-    "CSS/aset/Screenshot 2024-02-19 114255.png",
-    "CSS/aset/Screenshot 2024-02-19 114714.png",
     "CSS/aset",
     "CSS/New folder",
-    "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
     "CSS",
-    "Basis Data/Instalasi & Query Awal Databases.md",
-    "Basis Data/Hirarki .md",
-    "pemograman web/HTML/pertemuan 1/Pertemuan 1.md",
     "Untitled 1.loom",
-    "pemograman web/basis data/tabel",
+    "Basis Data/tabel",
     "pemograman web/basis data",
     "pemograman web/New folder",
     "Untitled.loom",
-    "pemograman web/HTML/pertemuan 3/deskripsi.md",
-    "pemograman web/HTML/Pertemuan 2/pengenalan web.md",
     "pemograman web/HTML/pertemuan 3/pertemuan 3.md",
-    "pemograman web/HTML/Belajar HTML.md",
     "pemograman web/HTML/aset/.md",
-    "pemograman web/HTML/perkenalan html",
-    "pemograman web/HTML/aset",
     "pemograman web/HTML/HTML.md",
     "pemograman web/HTML/pertemuan 1/pertemuan 1.md",
     "Vault.md",

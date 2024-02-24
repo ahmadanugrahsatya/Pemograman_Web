@@ -436,6 +436,10 @@ update nama_table set nama_kolom where kondisi;
 update pelanggan set no_telpon="0801XXXX" where id_pelanggan="1";
 ``` 
 
+## Hasil
+![](aset/ss45.png)
+
+
 ## Analisis
 1. `update` adalah query yang digunakan untuk memperbarui nilai dari kolom
 2. `pelanggan` nama table yang akan di perbarui nilai kolomnya
@@ -443,6 +447,10 @@ update pelanggan set no_telpon="0801XXXX" where id_pelanggan="1";
 4. `no_telpon` kolom yang akan di ubah nilai nya
 5. `"0801XXXX"` nilai yang akan dimasukkan 
 6. `where` query yang digunakan untuk memberikan sebuah kondisi
+
+> [!summary] Kesimpulan
+> jika ingin mengubah atau mengupdate sebuah table kalian bisa menggunakan query `update` dengan struktur query yaitu `update nama_table set nama_kolom where kondisi;`
+
 
 # Delete
 
@@ -458,6 +466,21 @@ delete from nama_table where kondisi;
 delete from pelanggan where id_pelanggan=5;
 ```
 
+## Hasil
+![](aset/ss46.png)
+
+## Analisis
+1. `delete` query yang digunakan untuk menghapus baris kolom
+2. `from` query yang digunakan untuk memberikan penanda bahwa table mana yang akan di hapus baris nya
+3. `pelanggan` nama table yang akan di hapus baris nya
+4. `where` query yang digunakan untuk memberikan sebuah kondisi
+5. `id_pelanggan` nama kolom nya 
+6. `=` operatornya
+7. `5` nilai nya
+
+> [!summary] Kesimpulan
+> jika ingin menghapus baris table kalian bisa menggunakan query `delete` dengan struktur yaitu `delete from nama_table where kondisi;`
+
 
 # Drop Table
 
@@ -471,3 +494,16 @@ Drop table [nama_table];
 drop table pelanggan;
 ```
 
+## Hasil
+![](aset/ss47.png)
+
+## Analisis
+1. `drop table` query yang digunakan untuk menghapus sebuah table
+2. `pelanggan` merupakan nama table yang akan di hapus
+
+
+> [!summary] Kesimpulan
+> jika ingin menghapus table kalian bisa menggunakan query  `drop` dengan struktur query yaitu `drop table [nama_table];`
+
+
+ 
