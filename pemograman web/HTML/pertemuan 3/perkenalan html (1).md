@@ -21,6 +21,7 @@ Penjelasan:
 - Apapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di web browser.
 
 Hasil:
+
 ![](../aset/ss3.png)
 # Anatomi Elemen HTML
 
@@ -46,7 +47,8 @@ Penjelasan:
 - "titip.html" merupakan nilai atributnya yang dimana link ini menuju ke file baru yang telah  saya buat yang artinya  "titip.html" adalah tujuan link yang saya simpan
 - "pergi kehalaman selanjutnya"merupakan isi konten yang berarti "pergi ke halaman selanjutnya"akan muncul sebagai link yang telah saya tentukan
 
-Contoh:
+Hasil:
+
 ![ssan 4](../aset/ss4.png)
 
 # Tag Dasar
@@ -79,6 +81,7 @@ Contoh
  
 
 Hasil
+
 ![400](../aset/ss8.jpeg)
 ## Paragraf 
 Di tag paragraf juga terdapat beberapa tag seperti `<p>`, `<b>`, `<i>`, `<u>`, `<br>`.
@@ -108,6 +111,7 @@ Contoh
 
 
 Hasil:
+
 ![](../aset/ss10.png)
 
 ### atribut align
@@ -143,6 +147,7 @@ contoh:
 ```
 
 hasil
+
 ![](../aset/ss11.png)
 
 ## komentar
@@ -156,6 +161,7 @@ contoh
 ```
 
 hasil
+
 ![](../aset/ss12.png)
 
 ## List
@@ -179,6 +185,7 @@ contoh
 ```
 
 hasil
+
 ![](../aset/ss13.png)
 
 ## Link 
@@ -197,6 +204,7 @@ contoh
 ```
 
 hasil
+
 ![](../aset/ss14.png)
 
 ## Multimedia
@@ -216,6 +224,7 @@ Berikut di bawah ini gambar yang mendeskiripsikan letak/lokasi gambar yang disis
 ![[ss15.png]]
 
 Hasil
+
 ![](../aset/ss16.png)
 
 ### Video
@@ -232,9 +241,11 @@ contoh
 
 
 Gambar dibawah merupakan gambar yang mendefinisikan bahwa file html dengan gambar dalam 1 folder
+
 ![](../aset/ss19.png)
 
 hasil
+
 ![](../aset/ss18.png)
 
 
@@ -330,6 +341,7 @@ contoh
 ```
 
 hasil
+
 ![400](../aset/ss23.png)
 
 >[!tip] Perhartikan bahwa pada tag `<table>` terdapat sebuah atribut `border`. Atribut border yang digunakan untuk memberikan nilai garis tepi dati tabel, nilai ini dalam ukuran pixel. `border="1"`, berarti kita mengistruksi kepada web browser bahwa tabel tersebut akan memiliki garis tepi sebesar 1 pixel. Jika tidak ditambahkan, secara default tabel tidak memiliki garis tepi. 
@@ -395,6 +407,7 @@ hasil
 ```
 
 hasil
+
 ![](../aset/ss37.png)
 ## Form
 Elemen `<form>` HTML digunakan untuk mendefinisikan form yang digunakan  untuk mengumpulkan inputan dari penggunaan website. Tag ini digunakan untuk mengoleksi inputan dari user, konsep ini sama seperti konsep formulir di dunia nyata.
@@ -575,6 +588,7 @@ Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas 
 ```
 
 Hasil dari program di atas:
+
 ![300](../aset/ss36.png)
 
 ### Latihan Form 2
