@@ -657,4 +657,32 @@ https://jagongoding.com/web/php/web-dinamis/membuat-dan-menangani-form/
 ## DIV & SPAN
 ### `<div>`
 
+### Penjelasan
+tag div merupakan tag yang digunakan untuk membuat layer yang dimana itu akan memudahkan seorang devoloper untuk membuat layout sesuai dengan desain yang diinginkan.
+
+### Contoh
+
+```html
+ <div>Ini dibuat menggunakan div</div>
+ <div>Ini juga menggunakan div</div>
+```
+
+### Hasil
+
+![](../aset/ss56.png)
+
 ## `<span>` 
+
+### Penjelasan
+Mirip seperti DIV, span adalah tag HTML yang tidak punya makna apa-apa ketika berdiri sendiri. Ia berguna untuk memberi aksi atau hiasan pada sebuah atau sekelompok elemen HTML.
+
+### Contoh
+```html
+<p>Ini dibuat menggunakan tag paragraf, <span>dan ada span di dalamnya.</span></p>
+        <span>Ini dibuat menggunakan span</span>
+        <span>ini j uga dibuat menggunakan span</span>
+```
+
+### Hasil
+
+![](../aset/ss57.png)
