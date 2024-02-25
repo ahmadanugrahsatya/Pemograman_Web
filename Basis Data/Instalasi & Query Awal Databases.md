@@ -3,27 +3,27 @@
 ## Menggunakan XAMPP
 1. buka XAMPP
 
-![](aset/ss25.png)
+![](mysql1.png)
 
 2. klik start di bagian mysql
 
-![](aset/ss26.png)
+![](mysql2.png)
 
 3. klik shell
 
-![](aset/ss27.png)
+![](mysql3.png)
 
 4. ketik mysql -u root -p lalu enter
 
-![](aset/ss28.png)
+![](mysql4.png)
 
 5. nanti nya akan muncul seperti ini
 
-![](aset/ss29.png)
+![](mysql5.png)
 
 6.  jika setelah di enter maka dibagian tersebut tidak perlu diisi langsung saja klik enter lagi
 
-![](aset/ss30.png)
+![](mysql6.png)
 ## referensi video youtube
 <https://youtu.be/tSGKZ_oaJOo?si=XhKflnx-D2Tq28Uv>
 
@@ -36,7 +36,7 @@ mysql -u root -p
 
 hasil
 
-![](aset/ss30.png)
+![](mysql6.png)
 
 analis
 1. `mysql`  digunakan untuk memberitahu sistem bahwa aplikasi yang ingin di gunakan yaitu mysql
@@ -52,19 +52,19 @@ kesimpulannya adalah query `mysql -u root -p` digunakan untuk masuk ke dalam apl
 ## Membuat database 
 yaitu dengan cara mengetikkan query `create database (nama database);` contoh seperti ini `create database angga_database;` maka nanti akan muncul seperti ini jika database telah terbuat.
 
-![](aset/ss31.png)
+![](mysql7.png)
 ## Menampilkan database
 untuk caranya kalian bisa mengetikkan query `show databases;`. penyebab mengapa ada tambahan huruf s di akhir kata database yaitu karena jika kalian mengetikkan `show databases;` maka yang akan di tampilakan ialah semua database yang, ada akan tetapi jika kita mengetikkan `show database;` maka yang tejadi ialah eror.
 
-![](aset/ss32.png)
+![](mysql8.png)
 ## Menghapus database
 kalian bisa menggukan cara yaitu mengetikkan query `drop database (nama database);` contoh seperti `drop database angga_database;` maka nanri akan muncul seperti ini jika database berhasil terhapus
 
-![](aset/ss33.png)
+![](mysql9.png)
 ## Gunakan database
 kalian bisa melakukannya dengan cara mengetikkan query `use nama database;` contoh seperti `use angga_database;` maka nanti akan muncul seperti ini jika database telah di buat
 
-![](aset/ss35.png)
+![](mysql11.png)
  
  >[!faq] `database_1` bisa di akses padahal telah di hapus karena `database_1` telah dibuat ulang
  
@@ -185,7 +185,7 @@ create database rental_angga
 ```
 
 hasil
-![](aset/ss40.png)
+![](mysql12.png)
 
 Analisis
 1. `crate database rental_angga` adalah query yang yang digunakan untuk membuat table di mysql
@@ -210,7 +210,7 @@ create table pelanggan (id_pelanggan int(4) primary key not null, nama_depan var
 ```
 
 hasil:
-![](aset/ss38.png)
+![](mysql13.png)
 
 Analisis:
 1. `create table pelanggan` adalah code yang digunakan untuk membuat sebuah tabel baru dan **pelanggan** 
@@ -229,12 +229,12 @@ adalah nama tabel nya
 Cara untuk menampilkan struktur tabel yaitu dengan cara menggunakan query `desc (nama table);`
 
 contoh:
-```
+```mysql
 desc pelanggan;
 ```
 
 hasil:
-![](aset/ss38.png)
+![](mysql13.png)
 
 analisis:
 1. `desc pelanggan;` merupakan query yang di gunakan untuk menampilkan struktur tabel yang telah di buat dan pelanggan adalah nama dari tabelnya
@@ -246,12 +246,12 @@ analisis:
 Cara untuk  menampilkan daftar table yaitu dengan cara 
 
 contoh
-```
+```mysql
 show tables;
 ```
 
 hasil:
-![](aset/ss39.png)
+![](mysql14.png)
 
 analisis:
 1. `show tables;` adalah query yang digunakan untuk menampilkan daftar table yang telah dibuat
@@ -292,7 +292,7 @@ insert into pelanggan values(1, 'Ahmad', 'Satya', '0895XXXX');
 ```
 
 ### Hasil
-![](aset/ss41.png)
+![](mysql15.png)
 ### Analsis
 1. `insert into` adalah query yang digunakan untuk menginput isi table
 2. `pelanggan` adalah nama table nya
@@ -315,7 +315,7 @@ insert into pelanggan values(1, 'Ahmad', 'Satya', '0895XXXX'), (2, 'Daud', 'Resk
 ```
 
  
-![](aset/ss42.png)
+![](mysql16.png)
 
 ### Analisis
 1. `insert into` query yang di gunakan untuk menginput isi table
@@ -340,7 +340,7 @@ insert into pelanggan (id_pelanggan, nama_depan) values (5, "fahri")
 
 ### Hasil
 
-![](aset/ss44.png)
+![](mysql17.png)
 
 ### Analisis
 1. `insert into` query yang digunakan untuk menginput isi table
@@ -367,7 +367,7 @@ select * from pelanggan;
 ```
 
 ### Hasil
-![](ss42.png)
+![](mysql18.png)
 
 ### Analisis
 1. `Select` merupakan query yang digunakan untuk menampilkan hasil `insert` 
@@ -382,7 +382,7 @@ select * from pelanggan;
 ### Struktur 
 
 ```mysql
-select [nama_kolom1], [nama_kolom2], ..., [nama_kolom_n]
+select [nama_kolom1], [nama_kolom2], mysqlolom_n]
 ```
 
 ### Contoh
@@ -391,7 +391,7 @@ select nama_depan from pelanggan;
 ```
 
 ### Hasil
-![](aset/ss43.png)
+![](mysql19.png)
 
 ### Analisis
 
@@ -411,7 +411,7 @@ select id_pelanggan, nama_depan from pelanggan where id_pelanggan=2;
 ```
 
 ### Hasil
-![](aset/ss45.png)
+![](mysql20.png)
 
 ### Analisis
 1. `select` merupakan query yang digunakan untuk menampilkan hasil `insert` 
@@ -437,7 +437,7 @@ update pelanggan set no_telpon="0801XXXX" where id_pelanggan="1";
 ``` 
 
 ## Hasil
-![](aset/ss45.png)
+![](mysql21.png)
 
 
 ## Analisis
@@ -467,7 +467,7 @@ delete from pelanggan where id_pelanggan=5;
 ```
 
 ## Hasil
-![](aset/ss46.png)
+![](mysql22.png)
 
 ## Analisis
 1. `delete` query yang digunakan untuk menghapus baris kolom
@@ -495,7 +495,7 @@ drop table pelanggan;
 ```
 
 ## Hasil
-![](aset/ss47.png)
+![](mysql23.png)
 
 ## Analisis
 1. `drop table` query yang digunakan untuk menghapus sebuah table

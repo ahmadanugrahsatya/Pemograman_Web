@@ -1,3 +1,16 @@
+# Definisi Basis Data
+*Basis* : Adalah tempat berkumpul, markas, gudang, wadah suatu data
+
+*Data* : Adalah sekumpulan fakta sebuah objek
+
+*Kesimpulan* : *Basis data* adalah kumpulan informasi yg disimpan di dalam komputer secara sistematik
+
+
+# Peranan Basis Data
+
+Bank: Bank merupakan salah satu organisasi yang sangat tergantung kepada sistem basis data. Data nasabah, transaksi yang dilakukan, dan data keuangan lainnya disimpan di sistem basis data. Sistem ini memungkinkan layanan kepada nasabah bank dapat dilakukan dengan baik.
+
+
 # Struktur database
 
 | NO | NAMA | KELAS | UMUR | KLM |

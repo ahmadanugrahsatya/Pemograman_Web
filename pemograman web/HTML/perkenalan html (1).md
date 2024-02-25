@@ -22,7 +22,7 @@ Penjelasan:
 
 Hasil:
 
-![](../aset/ss3.png)
+![](aset/ss3.png)
 # Anatomi Elemen HTML
 
 ## Tag Pembuka dan Tag Penutup
@@ -49,7 +49,7 @@ Penjelasan:
 
 Hasil:
 
-![ssan 4](../aset/ss4.png)
+![ssan 4](aset/ss4.png)
 
 # Tag Dasar
 
@@ -82,7 +82,7 @@ Contoh
 
 Hasil
 
-![400](../aset/ss8.jpeg)
+![400](aset/ss8.jpeg)
 ## Paragraf 
 Di tag paragraf juga terdapat beberapa tag seperti `<p>`, `<b>`, `<i>`, `<u>`, `<br>`.
 - `<p>` tag yang diguanakan untuk menampilkan sebuah paragraf
@@ -112,7 +112,7 @@ Contoh
 
 Hasil:
 
-![](../aset/ss10.png)
+![](aset/ss10.png)
 
 ### atribut align
 di tag paragraf juga memiliki beberapa atribut yaitu align atribut ini berfungsi sebagai mengatur perataan teks atau paragraf seperti 
@@ -148,7 +148,7 @@ contoh:
 
 hasil
 
-![](../aset/ss11.png)
+![](aset/ss11.png)
 
 ## komentar
 HTML juga mempunyai tag khusus untuk komentar untuk membuat komentar di html kita menggunakan awalan  " `<!--` " dan penutup " `-->` ".
@@ -162,7 +162,7 @@ contoh
 
 hasil
 
-![](../aset/ss12.png)
+![](aset/ss12.png)
 
 ## List
 list adalah fungsi di html yang di gunakan untuk menampilkan daftar dari sesuatu. Dalam HTML , tag list terdiri dari 2 jenis, `<ol>` ordered list (berurutan) dan `<ul>` unordered list (tidak berurutan). Ordered list yang akan menampikan angka atau huruf, sedangkan unordered list yang akan menampilkan simbol-simbol seperti simbol bulat atau kotak
@@ -186,7 +186,7 @@ contoh
 
 hasil
 
-![](../aset/ss13.png)
+![](aset/ss13.png)
 
 ## Link 
 link dapat ditemukan di hampir semua halaman web. link/tautan memungkinkan sebuah teks yang ketika di klik akan berpindah ke halaman lainnya. HTML menggunakan tag `<a>` untuk keperluan ini. link ditulis dengan `<a>` yang merupakan singkatan cari anchor(jangkar).
@@ -205,7 +205,7 @@ contoh
 
 hasil
 
-![](../aset/ss14.png)
+![](aset/ss14.png)
 
 ## Multimedia
 ### Gambar
@@ -225,7 +225,7 @@ Berikut di bawah ini gambar yang mendeskiripsikan letak/lokasi gambar yang disis
 
 Hasil
 
-![](../aset/ss16.png)
+![](aset/ss16.png)
 
 ### Video
  dalam HTML, video didefinisikan dengan tag `<video>`, tag `<video>` adalah tag yang digunakan untuk memasukkan video kedalam web, di tag `<video>` terdapat tag khusus yang dimana tag ini tidak memiliki tag penutup yaitu `<source>` yang Digunakan untuk menyediakan beberapa sumber video dan memberi browser pilihan format yang sesuai. 
@@ -242,11 +242,11 @@ contoh
 
 Gambar dibawah merupakan gambar yang mendefinisikan bahwa file html dengan gambar dalam 1 folder
 
-![](../aset/ss19.png)
+![](aset/ss19.png)
 
 hasil
 
-![](../aset/ss18.png)
+![](aset/ss18.png)
 
 
 ### audio
@@ -261,11 +261,11 @@ contoh
 <audio controls src="gomu_gomu_message (1).mp3" type="audio/mp3"></audio>
 ```
 
-![](../aset/ss20.png)
+![](aset/ss20.png)
 
 hasil
 
-![](../aset/ss21.png)
+![](aset/ss21.png)
 
 ### Halaman Web Lain
 Elemen `<iframe>` dapat digunakan untuk menampilkan dokumen html lain dalam sebuah website. Mudahnya, bisa dibilang website dalam website.
@@ -285,7 +285,7 @@ contoh
 
 hasil
 
-![](../aset/ss22.png)
+![](aset/ss22.png)
 
 ## Table
 Tabel dalam HTML di definisikan dengan `<table>`
@@ -342,7 +342,7 @@ contoh
 
 hasil
 
-![400](../aset/ss23.png)
+![400](aset/ss23.png)
 
 >[!tip] Perhartikan bahwa pada tag `<table>` terdapat sebuah atribut `border`. Atribut border yang digunakan untuk memberikan nilai garis tepi dati tabel, nilai ini dalam ukuran pixel. `border="1"`, berarti kita mengistruksi kepada web browser bahwa tabel tersebut akan memiliki garis tepi sebesar 1 pixel. Jika tidak ditambahkan, secara default tabel tidak memiliki garis tepi. 
 
@@ -382,7 +382,7 @@ contoh
 
 hasil
 
-![](../aset/ss24.png)
+![](aset/ss24.png)
 
 
 ### Tabel Latihan 3
@@ -408,7 +408,7 @@ hasil
 
 hasil
 
-![](../aset/ss37.png)
+![](aset/ss37.png)
 ## Form
 Elemen `<form>` HTML digunakan untuk mendefinisikan form yang digunakan  untuk mengumpulkan inputan dari penggunaan website. Tag ini digunakan untuk mengoleksi inputan dari user, konsep ini sama seperti konsep formulir di dunia nyata.
 
@@ -589,7 +589,7 @@ Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas 
 
 Hasil dari program di atas:
 
-![300](../aset/ss36.png)
+![300](aset/ss36.png)
 
 ### Latihan Form 2
 
@@ -669,7 +669,7 @@ tag div merupakan tag yang digunakan untuk membuat layer yang dimana itu akan me
 
 ### Hasil
 
-![](../aset/ss56.png)
+![](aset/ss56.png)
 
 ## `<span>` 
 
@@ -685,4 +685,4 @@ Mirip seperti DIV, span adalah tag HTML yang tidak punya makna apa-apa ketika b
 
 ### Hasil
 
-![](../aset/ss57.png)
+![](aset/ss57.png)

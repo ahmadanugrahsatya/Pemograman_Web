@@ -10,7 +10,7 @@ select warna,pemilik from mobil where warna='hitam' and pemilik='ibrahim'
 ```
 
 ## Hasil
-![](aset/ss48.png)
+![](mysql24.png)
 
 
 
@@ -26,7 +26,7 @@ select warna,pemilik from mobil where warna='Hitam' or pemilik='Ibrahim';
 ```
 
 ## Hasil
-![](aset/ss49.png)
+![](mysql25.png)
 
 # Between
 ## Struktur
@@ -40,7 +40,7 @@ select * from mobil where harga_rental between 100000 and 150000;
 ```
 
 ## Hasil
-![](aset/ss50.png)
+![](mysql26.png)
 
 # Not Between
 ## Struktur
@@ -54,7 +54,7 @@ select * from mobil where harga_rental not between 100000 and 150000;
 ```
 
 ## Hasil
-![](aset/ss50.png)
+![](mysql27.png)
 
 # <=
 ## Struktur
@@ -67,6 +67,8 @@ select * from nama_table where nama_kolom<=nilai;
 select * from mobil where harga_rental<=50000;
 ```
 
+## Hasil
+![](mysql28.png)
 # >=
 ## Struktur
 ```mysql
@@ -79,7 +81,7 @@ select * from mobil where harga_rental>=50000
 ```
 
 ## Hasil
-![](aset/ss52.png)
+![](mysql29.png)
 
 # <> atau !=
 ## Struktur1
@@ -103,15 +105,15 @@ select * from mobil where harga_rental!=50000;
 ```
 
 ## Hasil1
-![](aset/ss53.png)
+![](mysql30.png)
 
 ## Hasil2
-![](aset/ss54.png)
+![](mysql31.png)
 
 # Tantangan Login
 ## Struktur
 ```mysql
-select nama_kolom from nama_table where nama_kolom=nilai;
+select nama_kolom1 from nama_table where nama_kolom2=nilai;
 ```
 
 ## Contoh
@@ -120,7 +122,7 @@ select pemilik from mobil where no_plat="DD 2560 XY";
 ```
 
 ## Hasil
-![](aset/ss55.png)
+![](mysql32.png)
 
     
 

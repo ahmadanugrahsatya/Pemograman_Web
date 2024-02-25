@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "237465be657fd99a",
+        "id": "d2273b340176a364",
         "type": "tabs",
         "children": [
           {
-            "id": "0089e90d2f0ee62a",
+            "id": "65c4a146a7a80d60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/Select Lanjutan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a39c16f80180df7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "file": "pemograman web/HTML/perkenalan html (1).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "file": "pemograman web/HTML/perkenalan html (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+                "file": "pemograman web/HTML/perkenalan html (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pemograman web/HTML/pertemuan 3/perkenalan html (1).md"
+                "file": "pemograman web/HTML/perkenalan html (1).md"
               }
             }
           },
@@ -182,28 +169,43 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a39c16f80180df7a",
+  "active": "65c4a146a7a80d60",
   "lastOpenFiles": [
-    "pemograman web/HTML/aset/ss57.png",
-    "pemograman web/HTML/aset/ss56.png",
-    "pemograman web/HTML/aset/Screenshot 2024-02-25 074832.png",
-    "pemograman web/HTML/Pertemuan 2/pengenalan web.md",
     "Basis Data/Select Lanjutan.md",
-    "pemograman web/HTML/pertemuan 1/Pertemuan 1.md",
-    "pemograman web/HTML/pertemuan 3/deskripsi.md",
-    "pemograman web/HTML/pertemuan 3/perkenalan html.md",
-    "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
-    "pemograman web/HTML/Belajar HTML.md",
-    "Basis Data/Hirarki .md",
+    "Basis Data/aset/mysql32.png",
+    "Basis Data/aset/mysql28.png",
+    "Basis Data/aset/Screenshot 2024-02-20 141032.png",
+    "Basis Data/aset/mysql30.png",
+    "Basis Data/aset/mysql31.png",
+    "Basis Data/aset/mysql29.png",
+    "Basis Data/aset/mysql27.png",
+    "Basis Data/aset/mysql26.png",
+    "Basis Data/aset/mysql25.png",
+    "Basis Data/aset/mysql (3).png",
+    "Basis Data/Pengenalan Basis Data.md",
     "Basis Data/Instalasi & Query Awal Databases.md",
-    "pemograman web/HTML/aset/ss55.png",
-    "pemograman web/HTML/aset/Screenshot 2024-02-20 153416.png",
-    "pemograman web/HTML/aset/ss54.png",
-    "pemograman web/HTML/aset/ss53.png",
-    "pemograman web/HTML/aset/ss52.png",
-    "pemograman web/HTML/aset/ss51.png",
-    "pemograman web/HTML/aset/ss50.png",
-    "pemograman web/HTML/aset/ss49.png",
+    "Basis Data/Basis Data.md",
+    "pemograman web/HTML/perkenalan html (1).md",
+    "![[.md",
+    "Basis Data/Hirarki .md",
+    "Basis Data/aset",
+    "Basis Data/New folder",
+    "pemograman web/HTML/pertemuan 3.md",
+    "pemograman web/HTML/pertemuan 3/deskripsi.md",
+    "pemograman web/HTML/deskripsi.md",
+    "pemograman web/HTML/pengenalan web.md",
+    "pemograman web/HTML/Pertemuan 1.md",
+    "pemograman web/CSS/Pengenalan CSS.zip",
+    "pemograman web/CSS/Pengenalan CSS.md",
+    "pemograman web/CSS/aset",
+    "pemograman web/CSS",
+    "pemograman web/HTML/Pertemuan 2/pengenalan web.md",
+    "pemograman web/HTML/pertemuan 1/Pertemuan 1.md",
+    "pemograman web/HTML/pertemuan 3/perkenalan html (1).md",
+    "Basis Data/Untitled 1.loom",
+    "Basis Data/Untitled.md",
+    "pemograman web/HTML/Belajar HTML.md",
+    "pemograman web/HTML/pertemuan 3/perkenalan html.md",
     "pemograman web/basis data/basis data.md",
     "pemograman web/HTML/aset",
     "aset.md",
@@ -211,18 +213,8 @@
     "CSS/Pengenalan CSS.md",
     "CSS/aset",
     "CSS/New folder",
-    "CSS",
-    "Untitled 1.loom",
-    "Basis Data/tabel",
-    "pemograman web/basis data",
-    "pemograman web/New folder",
-    "Untitled.loom",
     "pemograman web/HTML/pertemuan 3/pertemuan 3.md",
     "pemograman web/HTML/aset/.md",
-    "pemograman web/HTML/HTML.md",
-    "pemograman web/HTML/pertemuan 1/pertemuan 1.md",
-    "Vault.md",
-    "Basis Data/.md",
-    "Pertemuan 1.md"
+    "pemograman web/HTML/HTML.md"
   ]
 }

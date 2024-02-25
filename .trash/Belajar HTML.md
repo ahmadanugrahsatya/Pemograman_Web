@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f915
+---
 # Struktur Dasar HTML 
 ```html
 <!DOCTYPE html>
