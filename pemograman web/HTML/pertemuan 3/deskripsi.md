@@ -1,4 +1,4 @@
-![deskripsi](aset/deskripsi.jpeg)
+![deskripsi](../aset/deskripsi.jpeg)
 
 # Deskripsi gambar 
 

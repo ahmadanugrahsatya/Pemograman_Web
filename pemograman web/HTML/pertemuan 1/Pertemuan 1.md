@@ -46,7 +46,7 @@ Html dimulai dengan tag `<html>` dan di akhiri dengan tag `</html>`
 
 
 Gambar
-![alok|100](Aset/alok.jpg)
+![100](../aset/ss2.png)
 
 
 
