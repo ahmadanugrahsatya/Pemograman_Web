@@ -1,4 +1,27 @@
-# Sturktur dasar
+# kesimpulan Video
+
+## Sejarah Web Devolopment
+ Berawal dari tahun 1990-an seorang insinyur yang bernama tim barnes lee yang dimana menciptakan sebuah konsep sistem yang dimana memungkinkan sebuah dokumen dapat terhubung melalui internet, terus juga tim barner lee menciptakan hypertext transfer protokol(http) yang di mana dia menciptakan http sebagai jembatan antara clien dengan server agar bisa saling bertukar data, nah karena teks yang di kirim merupakan teks mentah maka dia menciptakan html sbeagai bahasa untuk markup atau simpel nya ngeformatin teks agar menjadi rapih terstruktur, dan juga tim bernes lee juga lah yang menciptakan pertama kali browser pertama yang di beri world wide web (www) sampai saat ini nama www kita dapat menemukannya wibsite, jadi dia menciptakan http untuk mentransfer data nya, terus dia menciptakan html untuk ngeformatin datanya ,dan dia menciptakan www untuk menampilkan data nya. Jadi jika kita ingin membuat web kita di wajibkan untuk tahu yang namanya html yang dimana html hampir semua website di dunia tanpa terkecuali bahkan youtube menggunakan html sebagai markup languagenya.
+
+## Penjelasan HTML Dan CSS
+jadi ibaratnya tubuh manusia dia itu seperti tulang yang mengatur setiap bagain tubuh website yang akan kita buat contoh nya setiap file html yang kita buat akan di anggap 1 halaman web setiap halaman akan dimulai dengan tag `<html>` dan akan di akhiri dengan tag `</html>` agar browser dapat mengenali bahwa itu bukan lah teks biasa melainkan teks html. Didalam tag html ada juga beberapa tag seperti `<head></head>`, `<title></title>`, `<body></body>`, `<span></span>`, `<h1></h1>`. `<p></p>`, `<img>`, `<table></table>` `<link>`. terus sebenarnya kita bisa melakukan stayling setiap tag nya akan tetapi semakin banyak tag dan staylingnya maka semakin berantakan juga code yang dibuat, makanya pada tahun 1994 dibuat lah CSS oleh pak Håkon Wium Lie dengan tujuan agar stayling dengan struktur html nya dapat dipisahkan dan jadi lebih mudah untuk dipelihara sampai saat ini. 
+
+# Deskripsi gambar 
+
+![deskripsi](aset/deskripsi.jpeg)
+
+
+## HTML 
+hubungan antara html dengan gambar rumah pertama, ialah sebuah pengibaratan html maksudnya html jika di ibaratkan seperti pondasi rumah, hal ini tentu nya berkaitan dengan html yang juga html itu berfungsi sebagai struktur website
+
+## CSS 
+hubungan antara css dengan gambar rumah kedua, ialah sebuah pengibaratan css maksudnya css jika di ibaratkan seperti pondasi rumah yang telah diberikan tembok, atap rumah, cerobong asap, jendela, pintu, dan juga sudah di cat, hal ini tentunya berkaitan dengan css yang juga css itu berfungsi sebagai penghias atau mempercantik website
+
+## JAVASCRIPT
+hubungan antara javascript dengan gambar rumah ketiga, ialah sebuah pengibaratan javascript maksudnya javascript jika di ibaratkan seperti rumah yang sudah jadi dengan segala interaksi yang ada di dalam rumah seperti penyalaan lampu dan pembakaran kayu bakar, hal ini berkaitan dengan javascript yang dimana javascript di gunakan untuk di website agar adanya interaksi antara web dengan user yang masuk ke dalam web seperti ketika kita login ke web dan password yang di masukkan salah maka akan terjadi eror dan akan ada pemberian informasi bahwa password yang dimasukkan salah.
+
+# Belajar html
+## Sturktur dasar
 Sturktur dasar html merupakan sebuah struktur yang terdiri dari elemen-elemen dasar yang dimana elemen-elemen tersebut akan membentuk kerangka dokumen html, contoh nya seperti berikut
 
 Contoh:
@@ -23,7 +46,7 @@ Penjelasan:
 Hasil:
 
 ![](aset/ss3.png)
-# Anatomi Elemen HTML
+## Anatomi Elemen HTML
 
 ## Tag Pembuka dan Tag Penutup
 Tag pembuka dan tag penutup merupakan dua bagian dari suatu elemen dalam HTML yang berfungsi sebagai penentu awal dan akhir dari elemen tersebut. Tag pembuka akan dimulai dengan nama elemen yang diapit oleh tanda kurung sudut atau tanda lebih kecil dan tanda lebih besar ("`<`" dan "`>`"). Tag penutup juga hampir sama dengan tag pembuka, akan tetapi tag penutup memiliki karakter garis miring tambahan ("`/`") sebelum nama elemennya. contoh ini, `<a>` adalah tag pembuka, dan `</a>` adalah tag penutup
@@ -51,7 +74,7 @@ Hasil:
 
 ![ssan 4](aset/ss4.png)
 
-# Tag Dasar
+## Tag Dasar
 
 ## Heading
 Merupakan Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website dan memiliki enam tingkatan yang berurutan yaitu H1 hingga H6. Namun setiap tag memiliki fungsi yang berbeda contoh nya 
@@ -622,6 +645,10 @@ Hasil dari program di atas:
         </form>
 ```
 
+hasil dari program di atas:
+
+![](aset/ss58.png)
+
 1. `<form>` tag ini digunakan untuk mengumpulkan inputan dari penggunaan website.
 2. `<label>` tag ini merupakan tag yang didalam tag `<form>` yang berfungsi untuk melakukan penginputan di web.
 3. `<br>` digunakan untuk membuat baris baru
@@ -630,6 +657,7 @@ Hasil dari program di atas:
 6. `required` merupakan atribut yang digunakan untuk memberikan sebuah 
 7. untuk `nama`, `password`,`jenis_kelamin`, `web`, `mobile`, `desktop` itu merupakan nilai dari sebuah atribut yaitu atribut `for`
 8. dan untuk  `text`, `password`, `radio`, `chekbox`, `submit` merupakan nilai dari sebuah atribut yaitu atribut `type`
+
 
 ### Bagaimana Cara Memproses Form?
 
