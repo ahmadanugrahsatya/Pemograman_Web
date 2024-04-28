@@ -496,7 +496,7 @@ img{
     }
 ```
 ### Hasil
-![[Pasted image 20240428200512.png]]
+![](aset/cssss21.png)
 
 ### Kesimpulan
 `border-style: solid;` adalah properti CSS yang mengatur gaya border menjadi garis lurus dan solid dan memberikan warna putih pada pinggir gambar.
@@ -510,7 +510,7 @@ button{
       }
 ```
 ## Hasil 
-![[Pasted image 20240428200822.png]]
+![](aset/cssss26.png)
 ### Kesimpulan
 Mengatur warna atau memberikan warna orangered pada pinggiran  border 
 # Padding
@@ -523,7 +523,7 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428200926.png]]
+![](aset/cssss27.png)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kiri sebesar 29 piksel.  Dan membuat tulisan klik disini tidak terlalu ke kiri. 
 ## Padding-bottom
@@ -536,7 +536,7 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201023.png]]
+![](aset/cssss28.png)
 ### Kesimpulan
  elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian bawah sebesar 25 piksel.  Dan membuat tulisan klik disini tidak terlalu ke bawah. 
 ## Padding-Right
@@ -549,7 +549,7 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201200.png]]
+![](aset/cssss29.png)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kanan sebesar 29 piksel.  Dan membuat tulisan klik disini tidak terlalu ke kanan. 
 ## Padding-top
@@ -562,7 +562,7 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201248.png]]
+![](aset/cssss30.png)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian atasnya sebesar 20 piksel.  Dan membuat tulisan klik disini tidak terlalu ke atas. 
 # Margin
@@ -576,7 +576,7 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201405.png]]
+![](aset/cssss31.png)
 ### Kesimpulan
 `margin-left: 600px;` pada elemen `img`, Anda akan memberikan jarak 600 piksel antara batas kiri elemen gambar dan batas kiri elemen. 
 ## Margin-Top
@@ -588,9 +588,9 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201459.png]]
+![](aset/cssss32.png)
 ### Kesimpulan
-atura gaya ini memengaruhi tata letak (layout) elemen-elemen HTML dengan tag "F" dengan menambahkan margin di bagian atas sebesar 60 piksel.
+atura gaya ini memengaruhi tata letak (layout) elemen-elemen HTML dengan tag "button" dengan menambahkan margin di bagian atas sebesar 50 piksel.
 ## Margin-Right
 `margin-right` adalah properti CSS yang digunakan untuk menentukan jarak atau ruang tambahan di sebelah kanan dari sebuah elemen terhadap elemen lain di sekitarnya.
 ### Kode program
@@ -600,9 +600,9 @@ button{
     }
 ```
 ### Hasil
-![[Pasted image 20240428201630.png]]
+![](aset/cssss33.png)
 ### Kesimpulan
-elemen-elemen HTML dengan tag "F" akan memiliki jarak atau spasi tambahan sebesar 60 piksel di sebelah kanan. 
+elemen-elemen HTML dengan tag "button" akan memiliki jarak atau spasi tambahan sebesar 60 piksel di sebelah kanan. 
 ## Margin-Bottom
 `margin-bottom` adalah properti CSS yang digunakan untuk menentukan jarak atau ruang tambahan di bagian bawah dari sebuah elemen terhadap elemen lain di bawahnya. 
 
@@ -614,7 +614,7 @@ button{
 
 ```
 ### Hasil
-![[Pasted image 20240428201843.png]]
+![](aset/cssss33.png)
 ### Kesimpulan
 elemen-elemen yang memiliki kelas "F" akan memiliki jarak atau spasi sebesar 90 piksel di bagian bawahnya.
 # Pseudo-classes
@@ -637,7 +637,7 @@ button:hover{
 }
 ```
 ## Hasil
-![[Pasted image 20240428202111.png]]
+![](aset/cssss34.png)
 ### Kesimpulan
 Setiap property memberikan perubahan yang berbeda dari hover akan memberikan perubahan saat di klik, width dan height untuk mengatur lebar dan tinggi, background-color red memberikan warna merah ketika diklik, dan color white digunakan untuk memberikan warna putih pada teks. 
 
@@ -655,7 +655,7 @@ button:active{
 }
 ```
 ### Hasil
-![[Pasted image 20240428202429.png]]
+![](aset/cssss34.png)
 ### Kesimpulan
 Teks klik akan berganti warna menjadi kuning jika ditekan dan berputar. 
 
@@ -678,7 +678,7 @@ button:hover{
 ```
 
 ### Hasil
-![[Pasted image 20240428202705.png]]
+![](aset/cssss34.png)
 ### Kesimpulan
 `transition` dalam desain web memberikan kemampuan untuk mengatur perubahan visual pada elemen-elemen dengan mulus dan menarik. Dan berbeda sesuai dengan properti diatas. 
 # Transform
@@ -698,7 +698,7 @@ button:hover{
 ```
 ### Hasil
 
-![[Pasted image 20240428203907.png]]
+![](aset/cssss35.png)
 
 ### Kesimpulan
 Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -724,7 +724,7 @@ Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda
 	}
 ```
 ## Hasil
-![[Pasted image 20240428204223.png]]
+![](aset/cssss36.png)
 
 ### Kesimpulan
 Setiap properti flex-direction mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -743,7 +743,7 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 }
 ```
 ### Hasil
-![[Pasted image 20240428205230.png]]
+![](aset/cssss38.png)
 
 ### Kesimpulan
 Setiap properti align-items mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -761,7 +761,7 @@ Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-
 }
 ```
 ### Hasil
-![[Pasted image 20240428205427.png]]
+![](aset/cssss39.png)
 ### Kesimpulan
 Setiap properti justify-Content mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
 Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`flex-end` untuk menempatkan flex items di akhir (akhir) sumbu utama.`center` untuk menempatkan flex items di tengah-tengah sumbu utama.`space-around` untuk mendistribusikan flex items secara merata di sekitar sumbu utama dengan ruang yang sama di antara mereka.`space-between` untuk mendistribusikan flex items secara merata di sepanjang sumbu utama dengan ruang yang sama di antara flex items pertama dan terakhir, tetapi tidak ada ruang di antara flex items yang berdekatan.
@@ -780,7 +780,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 }
 ```
 ### Hasil
-![[Pasted image 20240428205520.png]]
+![](aset/cssss40.png)
 ### Kesimpulan
 `flex-shrink: 1;`, `flex-basis: auto;`, dan `flex-grow: 1;`, elemen tersebut akan menyusut jika perlu, ukuran awalnya akan disesuaikan dengan konten di dalamnya, dan akan memperluas untuk mengisi ruang yang tersedia dalam kontainer flex jika ada ruang tambahan.
 
@@ -875,6 +875,9 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 </html>
 ```
 
+## Hasil
+![](aset/cssss49.png)
+
 ## Kesimpulan
 **Body** menggunakan `display: flex;` untuk mengaktifkan _flexbox_, memungkinkan elemen-elemen di dalamnya diatur menggunakan properti _flexbox_. Selain itu, `height: 100vh;` mengatur tinggi minimum **body** setidaknya 100% dari tinggi viewport (tinggi layar pengguna), dan `background-color: purple;` memberikan warna latar belakang **body** menjadi ungu.
 
@@ -957,7 +960,7 @@ img{
 ```
 
 ## Hasil
-![[Pasted image 20240428212503.png]]
+![](aset/cssss48.png)
 
 
 ## Kesimpulan
@@ -1058,7 +1061,7 @@ img{
 }
 ```
 
-### Hasil![[Pasted image 20240428210039.png]]
+### Hasil![](aset/cssss41.png)
 
 ### Kesimpulan
 Memberikan gaya atau menggeser dimana klik disini posisi awal berasa samping  kiri di bawah selamat datang di web Fadhli dimana jika di klik maka posisi klik disini pindah ke sebelah kanan pas di bawah fadhil dan gambarnya ikut juga geser. 
@@ -1078,7 +1081,8 @@ box-1{
   left:30px; 
 }
 ```
-### Hasil ![[Pasted image 20240428210830.png]]
+### Hasil 
+![](aset/cssss42.png)
 ### Kesimpulan
 elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan menggeser elemen 20 piksel ke bawah dan 30 piksel ke kanan dari posisi defaultnya.
 ## Position Absolute
@@ -1098,7 +1102,7 @@ elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan mengg
 	}
 ```
 ### Hasil 
-![[Pasted image 20240428210930.png]]
+![](aset/cssss45.png)
 ### Kesimpulan
 kelas "box-2" menetapkan latar belakangnya menjadi warna ungu (purple) dan mengatur posisinya secara absolut,dimana elemen digeser 15 piksel dari atas dan 10 piksel dari kiri.
 
@@ -1118,7 +1122,7 @@ kelas "box-2" menetapkan latar belakangnya menjadi warna ungu (purple) dan menga
 }
 ```
 ### Hasil 
-![[Pasted image 20240428211021.png]]
+![](aset/cssss46.png)
 ### Kesimpulan
 position: fixed, elemen akan tetap berada pada posisinya yang ditentukan jika discrool.properti top dan left digunakan untuk menentukan jarak elemen dari tepi atas dan kiri. 
 
@@ -1138,6 +1142,6 @@ box-1{
 }
 ```
 ### Hasil 
-![[Pasted image 20240428211145.png]]
+![](aset/cssss47.png)
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
