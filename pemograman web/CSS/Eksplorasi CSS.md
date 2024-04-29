@@ -531,7 +531,7 @@ Dan berikut ialah hasil setelah mengatur responsivenya :
 
 
 #### Hasil :
-![](aset/cssss.png)
+![](aset/cssss64.png)
 
 #### Penjelasan :
 1. **Container** (`container`): Mengatur lebar konten di dalamnya. Pada kode Anda, digunakan untuk mengelompokkan elemen-elemen konten.
