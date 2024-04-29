@@ -286,7 +286,7 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
         </div>
     </div>
 </div>
-```
+```    
 9. Berikut hasil dari di bungkusnya cards tadi.
 	![](assets/btc-51.png)
 10. Sekarang kita aka   n membuat form nya. Pertama-tama, kita perlu membuat judul form. Caranya adalah ganti tulisan "Featured" di html kita dengan kata yang kita inginkan. misalnya pada program ini kita akan mengganti tulisan menjadi "Form Login".
