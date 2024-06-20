@@ -497,7 +497,7 @@ border-color: red;
 ```
 ### hasil
 #### Before
-![400](aset/Ss7.png)
+![400](aset/cssss.png)
 #### After
 ![400](aset/Ss8.png)
 ### kesimpulan
@@ -601,7 +601,7 @@ img {
 }
 ```
 ## Hasil
-![q](aset/Ss104.jpg)
+![q](aset/cssss41.png)
 ## Kesimpulan
  - `body`:Warna latar belakang diatur menjadi ungu (`background-color: purple`).
 - `span`: Teks dalam elemen span berwarna putih (`color: white`).
@@ -786,9 +786,9 @@ img {
 ```
 ## Hasil
 ### Before
-![a](aset/Ss104.jpg)
+![a](aset/cssss48.png)
 ### After
-![a](aset/Ss105.jpg)
+![a](aset/cssss70.png)
 ## Kesimpulan 
 - `body`: Warna latar belakang diatur menjadi ungu (`background-color: purple`).
 - `span`: Teks dalam elemen span berwarna putih (`color: white`).
@@ -1104,7 +1104,7 @@ Beberapa contoh property value nya :
 ```
 
 #### Hasil
-![a](aset/Ss33.png)
+![a](aset/cssss48.png)
 #### Kesimpulan
 Flex direction berfungsi ketika kita ingin mengatur tataletak item yang berada didalam container.
 ### FLEX WRAP
@@ -1658,7 +1658,7 @@ img {
 }
 ```
 ## Hasil
-![a](aset/Ss104.jpg)
+![a](aset/cssss48.png)
 ## Kesimpulan
 - `body`: Latar belakang diatur menjadi warna ungu (`Background-color: Purple`).
 - Kontainer Flex (`flex-container`): Kontainer ini menggunakan Flexbox untuk tata letak elemen-elemen di dalamnya.
@@ -1877,87 +1877,78 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 
 ```css
 .container {
-    position: static;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 580px;
-    background-color: rgba(122, 122, 247, 0.628);
+    position: static;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 580px;
+    background-color: rgba(122, 122, 247, 0.628);
 }
 .box {
-    width: 250px;
-    height: 350px;
-    background-color: white;
-    align-items: center;
-    align-content: center;
-    border-radius: 10px;
-    align-self: center;
-    margin-top: 150px;
-    margin-bottom: 200px;
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+    align-self: center;
+    margin-top: 150px;
+    margin-bottom: 200px;
 }
-
 .item {
-    width: 100%;
-    color: black;
+    width: 100%;
+    color: black;
 }
-
 .box-1 {
-    height: 225px;
-    width: 100%;
-    border-radius: 10px 10px 0px 0px;
-    
+    height: 225px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
 }
-
 .box-2 {
-    font-size: 10px;
-    margin-left: 20px;
-    margin-top: 20px;
-    padding-top: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
 .box-3 {
-    font-size: 18px;
-    margin-left: 20px;
-    margin-top: 10px;
-    padding-top: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
 .box-4 {
-    font-size: 11px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 20px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
 }
-
 .box-5 {
-    background-color: rgb(193, 193, 193);
-    padding-left: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    margin-bottom: 90px ;
-    font-family: Arial, Helvetica, sans-serif;
-    border-radius: 0px 0px 10px 10px;
-    font-size: small;
+    background-color: rgb(193, 193, 193);
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 90px ;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0px 0px 10px 10px;
+    font-size: small;
 }
-
 .item-1 {
-    width: 10px;
-    padding-left: 130px;
+    width: 10px;
+    padding-left: 130px;
 }
-
 .icon {
-   background-color: skyblue;
-   position: relative;
-   left: 200px;
-   bottom: 35px;
-   width: 30px;
-   height: 30px;
-   border-radius: 1500px;
+   background-color: skyblue;
+   position: relative;
+   left: 200px;
+   bottom: 35px;
+   width: 30px;
+   height: 30px;
+   border-radius: 1500px;
 }
 ```
 ## Hasil
-![a](aset/Ss154.jpg)
+![a](aset/cssss71.png)
 ## Analisis
 - container Position: Posisi static adalah posisi default di CSS, yang berarti elemen akan muncul sesuai dengan alur dokumen normal.
 - Display: flex mengaktifkan model layout flexbox, memungkinkan elemen anak untuk diatur dalam arah tertentu dan memberikan fleksibilitas dalam tata letak.
