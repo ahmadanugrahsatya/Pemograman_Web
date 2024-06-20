@@ -497,9 +497,9 @@ border-color: red;
 ```
 ### hasil
 #### Before
-![](aset/Ss7.png)
+![400](aset/Ss7.png)
 #### After
-![](aset/Ss8.png)
+![400](aset/Ss8.png)
 ### kesimpulan
 kesimpulan kode tersebut `div { border-color: red; }` adalah bahwa semua elemen `<div>` pada halaman web akan memiliki border dengan warna merah.
 Dengan kode tersebut, setiap elemen `<div>` akan memiliki border dengan lebar default (biasanya 1 piksel), gaya default (biasanya solid), namun warna bordernya akan diatur menjadi merah. Ini berarti elemen `<div>` akan memiliki garis pinggiran berwarna merah mengelilingi seluruh elemennya.
@@ -519,9 +519,9 @@ button{
 ```
 ### hasil
 #### before
-![](aset/Ss7.png)
+![400](aset/Ss7.png)
 #### after
-![](aset/Ss9.png)
+![400](aset/Ss9.png)
 ### kesimpulan
 Kesimpulan dari kode CSS `div { margin-left: 100px; }` adalah bahwa semua elemen `<img>` pada halaman web akan memiliki margin sebesar 100 piksel di sisi kanan.
 Dengan kode tersebut, setiap elemen `<button>` akan memiliki ruang kosong (margin) sebesar 100 piksel di sisi kiri, yang berarti elemen-elemen tersebut akan terpisah dengan elemen lain di sebelah kanannya sejauh 100 piksel. Ini akan memengaruhi tata letak (layout) dari elemen-elemen `<button>` tersebut dalam halaman web.
@@ -542,9 +542,9 @@ padding-left: 50px;
 ```
 ### hasil
 #### Before
-![](aset/Ss7.png)
+![400](aset/Ss7.png)
 #### After
-![](aset/Ss10.png)
+![400](aset/Ss10.png)
 ### kesimpulan
 Kesimpulan dari kode CSS `button { padding-left: 50px; }` adalah bahwa semua elemen `<button>` pada halaman web akan memiliki padding sebesar 50 piksel di sisi kiri.
 Dengan kode tersebut, setiap elemen `<button>` akan memiliki ruang kosong 50 piksel di sisi kiri, yang berarti konten di dalam elemen tersebut akan tergeser ke kiri sejauh 50 piksel dari batas kiri elemen. Jadi, setiap elemen `<button>` akan memiliki padding sebesar 50 piksel di sisi kiri elemen.
