@@ -1616,7 +1616,7 @@ Properti flex memungkinkan Anda untuk secara singkat menentukan bagaimana elemen
     <button>Klik disini</button>
     </span>
 </div>
-    <img src="yotsuba.jpg">
+    <img src="aset/angga.png">
    </div>
   </body>
 </html>
