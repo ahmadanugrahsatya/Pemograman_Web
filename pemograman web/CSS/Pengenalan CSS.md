@@ -564,7 +564,7 @@ Dengan kode tersebut, setiap elemen `<button>` akan memiliki ruang kosong 50 pik
     </span>
     <br>
     <span>
-      di <b>Web Agis !</b><br>
+      di <b>Web Angga Univers!</b><br>
     <button>Klik disini</button>
     </span>
     <img src="aset/angga.png">
