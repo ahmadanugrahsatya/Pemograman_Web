@@ -567,7 +567,7 @@ Dengan kode tersebut, setiap elemen `<button>` akan memiliki ruang kosong 50 pik
       di <b>Web Agis !</b><br>
     <button>Klik disini</button>
     </span>
-    <img src="Yotsuba.jpg">
+    <img src="aset/angga.png">
   </body>
 </html>
 ```
@@ -1612,7 +1612,7 @@ Properti flex memungkinkan Anda untuk secara singkat menentukan bagaimana elemen
     </span>
     <br>
     <span>
-      di <b>Web Agis !</b><br>
+      di <b>Web Angga Univers!</b><br>
     <button>Klik disini</button>
     </span>
 </div>
@@ -1863,7 +1863,7 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 <body>
     <div class="container">
         <div class="box"> 
-            <img class="item box-1" src="yotsuba.jpg" alt="Gambar">
+            <img class="item box-1" src="aset/angga.png" alt="Gambar">
             <p> <img class="icon" src="jempol.png"></p>
             <p class="item box-2">Saturday, April 27, 2024</p>
             <h1 class="item box-3">The standard chunk of <br>Lorem Ipsum</h1>
